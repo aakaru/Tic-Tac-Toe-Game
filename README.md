@@ -39,10 +39,10 @@ You can clone this repository to your local machine to access the source code. S
 Contributions are welcome! If you'd like to improve this game or add new features, feel free to fork the repository and submit a pull request with your changes.
 
 Fork the project
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a pull request
+-Create your feature branch (git checkout -b feature/AmazingFeature)
+-Commit your changes (git commit -m 'Add some AmazingFeature')
+-Push to the branch (git push origin feature/AmazingFeature)
+-Open a pull request
 ## License
 This project is licensed under the MIT License.
 ```bash
